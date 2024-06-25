@@ -1,0 +1,284 @@
+Punto di prelievo,Data prelievo,Contaminante,Area industriale,Concentrazione (μg/l),Soglia di legge (μg/l),Concentrazione in eccesso (μg/l),Indice di superamento,ID
+Alcoa PZ 4,08/10/2020,Cadmio,Alcoa,120000,5,119995,24000,Alcoa PZ 4 - Cadmio
+Enel Grazia Deledda S 124,15/01/2020,Alluminio,Enel,3235000,200,3234800,16175,Enel Grazia Deledda S 124 - Alluminio
+Enel Grazia Deledda S 124,15/01/2020,Ferro,Enel,1050000,200,1049800,5250,Enel Grazia Deledda S 124 - Ferro
+Alcoa PZ 4,08/10/2020,Manganese,Alcoa,91000,50,90950,1820,Alcoa PZ 4 - Manganese
+Portovesme srl PZ51,21/10/2020,Mercurio,Portovesme srl,1715,1,1714,1715,Portovesme srl PZ51 - Mercurio
+Portovesme srl PZ51,21/10/2020,Cadmio,Portovesme srl,5793,5,5788,1158.6,Portovesme srl PZ51 - Cadmio
+Alcoa PZ 11,24/09/2020,Mercurio,Alcoa,524,1,523,524,Alcoa PZ 11 - Mercurio
+Enel Grazia Deledda S 124,15/01/2020,Manganese,Enel,25626,50,25576,512.52,Enel Grazia Deledda S 124 - Manganese
+Alcoa PZ 4,08/10/2020,Zinco,Alcoa,1400000,3000,1397000,466.67,Alcoa PZ 4 - Zinco
+Portovesme srl PZ51,21/10/2020,Alluminio,Portovesme srl,53718,200,53518,268.59,Portovesme srl PZ51 - Alluminio
+Portovesme srl PZ51,21/10/2020,Manganese,Portovesme srl,12923,50,12873,258.46,Portovesme srl PZ51 - Manganese
+Eurallumina PZN 06,14/12/2020,Alluminio,Eurallumina,41485,200,41285,207.43,Eurallumina PZN 06 - Alluminio
+Enel Grazia Deledda S 124,15/01/2020,Solfato (ione),Enel,34804000,250000,34554000,139.22,Enel Grazia Deledda S 124 - Solfato (ione)
+Eurallumina PZN 26,15/12/2020,Arsenico,Eurallumina,1129,10,1119,112.9,Eurallumina PZN 26 - Arsenico
+Alcoa PZ 4,08/10/2020,Nichel,Alcoa,2000,20,1980,100,Alcoa PZ 4 - Nichel
+Portovesme srl PZ51,21/10/2020,Ferro,Portovesme srl,12259,200,12059,61.3,Portovesme srl PZ51 - Ferro
+Enel Grazia Deledda S 148,01/10/2020,Arsenico,Enel,532,10,522,53.2,Enel Grazia Deledda S 148 - Arsenico
+Eurallumina PZN 26,15/12/2020,Vanadio,Eurallumina,2142,50,2092,42.84,Eurallumina PZN 26 - Vanadio
+Enel Portoscuso PO 2,17/09/2020,Arsenico,Enel,410,10,400,41,Enel Portoscuso PO 2 - Arsenico
+Enel Grazia Deledda S 124,15/01/2020,Nichel,Enel,788,20,768,39.4,Enel Grazia Deledda S 124 - Nichel
+Enel Portoscuso PO 2,17/09/2020,Tallio,Enel,77,2,75,38.5,Enel Portoscuso PO 2 - Tallio
+Eurallumina PZN16,14/12/2020,Berillio,Eurallumina,144,4,140,36,Eurallumina PZN16 - Berillio
+Alcoa PZ 4,08/10/2020,Mercurio,Alcoa,33,1,32,33,Alcoa PZ 4 - Mercurio
+Portovesme srl PZ51,21/10/2020,Zinco,Portovesme srl,74813,3000,71813,24.94,Portovesme srl PZ51 - Zinco
+Alcoa PZ 4,08/10/2020,Solfato (ione),Alcoa,5524000,250000,5274000,22.1,Alcoa PZ 4 - Solfato (ione)
+Enel Grazia Deledda S 124,15/01/2020,Cromo totale,Enel,1089,50,1039,21.78,Enel Grazia Deledda S 124 - Cromo totale
+Alcoa PZ 4,08/10/2020,Cobalto,Alcoa,1000,50,950,20,Alcoa PZ 4 - Cobalto
+Enel Grazia Deledda S 124,15/01/2020,Berillio,Enel,73.4,4,69.4,18.35,Enel Grazia Deledda S 124 - Berillio
+Portovesme srl PZ51,21/10/2020,Nichel,Portovesme srl,359,20,339,17.95,Portovesme srl PZ51 - Nichel
+Enel Grazia Deledda S 148,01/10/2020,Fluoruri,Enel,26560,1500,25060,17.71,Enel Grazia Deledda S 148 - Fluoruri
+Alcoa PZ 4,08/10/2020,Magnesio,Alcoa,715000,50000,665000,14.3,Alcoa PZ 4 - Magnesio
+Portovesme srl PZ51,21/10/2020,Fluoruri,Portovesme srl,20600,1500,19100,13.73,Portovesme srl PZ51 - Fluoruri
+Portovesme srl PZ51,21/10/2020,Berillio,Portovesme srl,53,4,49,13.25,Portovesme srl PZ51 - Berillio
+Enel Grazia Deledda S 97,01/10/2020,Manganese,Enel,650,50,600,13,Enel Grazia Deledda S 97 - Manganese
+Eurallumina PZN 26,15/12/2020,Ammonio (ione),Eurallumina,6270,500,5770,12.54,Eurallumina PZN 26 - Ammonio (ione)
+Portovesme srl PZ P12 -,20/10/2020,Cadmio,Portovesme srl,62,5,57,12.4,Portovesme srl PZ P12 - - Cadmio
+Enel Grazia Deledda S 148,01/10/2020,Ammonio (ione),Enel,6180,500,5680,12.36,Enel Grazia Deledda S 148 - Ammonio (ione)
+Portovesme srl PZ51,21/10/2020,Selenio,Portovesme srl,123,10,113,12.3,Portovesme srl PZ51 - Selenio
+Enel Grazia Deledda S 124,15/01/2020,Boro,Enel,12086,1000,11086,12.09,Enel Grazia Deledda S 124 - Boro
+Alcoa PZ 13,24/09/2020,Cadmio,Alcoa,60,5,55,12,Alcoa PZ 13 - Cadmio
+Eurallumina PZN 26,15/12/2020,Mercurio,Eurallumina,11,1,10,11,Eurallumina PZN 26 - Mercurio
+Eurallumina PZN 26,15/12/2020,Ferro,Eurallumina,2170,200,1970,10.85,Eurallumina PZN 26 - Ferro
+Portovesme srl PZ51,21/10/2020,Solfato (ione),Portovesme srl,2258000,250000,2008000,9.03,Portovesme srl PZ51 - Solfato (ione)
+Portovesme srl PZ51,21/10/2020,Tallio,Portovesme srl,18,2,16,9,Portovesme srl PZ51 - Tallio
+Portovesme srl PZ51,21/10/2020,Piombo,Portovesme srl,88,10,78,8.8,Portovesme srl PZ51 - Piombo
+Eurallumina PZN 06,14/12/2020,Arsenico,Eurallumina,83,10,73,8.3,Eurallumina PZN 06 - Arsenico
+Alcoa PZ 11,24/09/2020,Selenio,Alcoa,81,10,71,8.1,Alcoa PZ 11 - Selenio
+Alcoa PZ 13,24/09/2020,Fluoruri,Alcoa,12100,1500,10600,8.07,Alcoa PZ 13 - Fluoruri
+Portovesme srl PZ51,21/10/2020,Arsenico,Portovesme srl,78,10,68,7.8,Portovesme srl PZ51 - Arsenico
+Alcoa PZ 11,24/09/2020,Ammonio (ione),Alcoa,3810,500,3310,7.62,Alcoa PZ 11 - Ammonio (ione)
+Alcoa PZ 11,24/09/2020,Triclorometano,Alcoa,1.14,0.15,0.99,7.6,Alcoa PZ 11 - Triclorometano
+Alcoa PZ 11,24/09/2020,Solfato (ione),Alcoa,1783000,250000,1533000,7.13,Alcoa PZ 11 - Solfato (ione)
+Eurallumina PZN 06,14/12/2020,Fluoruri,Eurallumina,9700,1500,8200,6.47,Eurallumina PZN 06 - Fluoruri
+Eurallumina PZN 06,14/12/2020,Mercurio,Eurallumina,6.1,1,5.1,6.1,Eurallumina PZN 06 - Mercurio
+Eurallumina PZN16,14/12/2020,Cadmio,Eurallumina,29,5,24,5.8,Eurallumina PZN16 - Cadmio
+Enel Portoscuso PO 2,17/09/2020,Fluoruri,Enel,8700,1500,7200,5.8,Enel Portoscuso PO 2 - Fluoruri
+Portovesme srl PZ51,21/10/2020,Cobalto,Portovesme srl,277,50,227,5.54,Portovesme srl PZ51 - Cobalto
+Enel Grazia Deledda S 97,01/10/2020,Solfato (ione),Enel,1139000,250000,889000,4.56,Enel Grazia Deledda S 97 - Solfato (ione)
+Enel Grazia Deledda S 97,01/10/2020,Magnesio,Enel,227000,50000,177000,4.54,Enel Grazia Deledda S 97 - Magnesio
+Eurallumina PZN 26,15/12/2020,Cromo totale,Eurallumina,219,50,169,4.38,Eurallumina PZN 26 - Cromo totale
+Portovesme srl PZ P12 -,20/10/2020,Fluoruri,Portovesme srl,6480,1500,4980,4.32,Portovesme srl PZ P12 - - Fluoruri
+Enel Grazia Deledda S 148,01/10/2020,Vanadio,Enel,210,50,160,4.2,Enel Grazia Deledda S 148 - Vanadio
+Alcoa PZ 4,08/10/2020,Triclorometano,Alcoa,0.61,0.15,0.46,4.07,Alcoa PZ 4 - Triclorometano
+Enel Grazia Deledda S 148,01/10/2020,Antimonio,Enel,19,5,14,3.8,Enel Grazia Deledda S 148 - Antimonio
+Enel Grazia Deledda S 97,01/10/2020,Ammonio (ione),Enel,1820,500,1320,3.64,Enel Grazia Deledda S 97 - Ammonio (ione)
+Alcoa PZ 13,24/09/2020,Mercurio,Alcoa,3.6,1,2.6,3.6,Alcoa PZ 13 - Mercurio
+Portovesme srl PZ P12 -,20/10/2020,Piombo,Portovesme srl,35,10,25,3.5,Portovesme srl PZ P12 - - Piombo
+Eurallumina PZN 26,15/12/2020,Alluminio,Eurallumina,687,200,487,3.44,Eurallumina PZN 26 - Alluminio
+Alcoa PZ 11,24/09/2020,Magnesio,Alcoa,165000,50000,115000,3.3,Alcoa PZ 11 - Magnesio
+Enel Grazia Deledda S 124,15/01/2020,Fluoruri,Enel,4820,1500,3320,3.21,Enel Grazia Deledda S 124 - Fluoruri
+Enel Grazia Deledda S 124,15/01/2020,Piombo,Enel,32,10,22,3.2,Enel Grazia Deledda S 124 - Piombo
+Enel Portoscuso PO 2,17/09/2020,Selenio,Enel,31,10,21,3.1,Enel Portoscuso PO 2 - Selenio
+Eurallumina PZN 06,14/12/2020,Triclorometano,Eurallumina,0.46,0.15,0.31,3.07,Eurallumina PZN 06 - Triclorometano
+Eurallumina PZN 26,15/12/2020,Fluoruri,Eurallumina,4320,1500,2820,2.88,Eurallumina PZN 26 - Fluoruri
+Eurallumina PZN 26,15/12/2020,Selenio,Eurallumina,28,10,18,2.8,Eurallumina PZN 26 - Selenio
+Enel Portoscuso PO 2,17/09/2020,Manganese,Enel,137,50,87,2.74,Enel Portoscuso PO 2 - Manganese
+Enel Grazia Deledda S 148,01/10/2020,Piombo,Enel,27,10,17,2.7,Enel Grazia Deledda S 148 - Piombo
+Enel Grazia Deledda S 124,15/01/2020,Tallio,Enel,5,2,3,2.5,Enel Grazia Deledda S 124 - Tallio
+Enel Grazia Deledda S 124,15/01/2020,Cadmio,Enel,11.9,5,6.9,2.38,Enel Grazia Deledda S 124 - Cadmio
+Eurallumina PZN 26,15/12/2020,Solfato (ione),Eurallumina,583000,250000,333000,2.33,Eurallumina PZN 26 - Solfato (ione)
+Portovesme srl PZ51,21/10/2020,Ammonio (ione),Portovesme srl,1160,500,660,2.32,Portovesme srl PZ51 - Ammonio (ione)
+Portovesme srl PZ51,21/10/2020,Magnesio,Portovesme srl,103000,50000,53000,2.06,Portovesme srl PZ51 - Magnesio
+Enel Grazia Deledda S 124,15/01/2020,Cobalto,Enel,102,50,52,2.04,Enel Grazia Deledda S 124 - Cobalto
+Alcoa PZ 13,24/09/2020,Antimonio,Alcoa,10,5,5,2,Alcoa PZ 13 - Antimonio
+Eurallumina PZN 26,15/12/2020,Nichel,Eurallumina,40,20,20,2,Eurallumina PZN 26 - Nichel
+Alcoa PZ 4,08/10/2020,Piombo,Alcoa,19,10,9,1.9,Alcoa PZ 4 - Piombo
+Eurallumina PZN16,14/12/2020,Manganese,Eurallumina,92,50,42,1.84,Eurallumina PZN16 - Manganese
+Portovesme srl PZ P12 -,20/10/2020,Arsenico,Portovesme srl,18,10,8,1.8,Portovesme srl PZ P12 - - Arsenico
+Eurallumina PZN16,14/12/2020,Fluoruri,Eurallumina,2600,1500,1100,1.73,Eurallumina PZN16 - Fluoruri
+Alcoa PZ 11,24/09/2020,Manganese,Alcoa,84,50,34,1.68,Alcoa PZ 11 - Manganese
+Alcoa PZ 4,08/10/2020,Arsenico,Alcoa,16,10,6,1.6,Alcoa PZ 4 - Arsenico
+Enel Portoscuso PO 2,17/09/2020,Mercurio,Enel,1.5,1,0.5,1.5,Enel Portoscuso PO 2 - Mercurio
+Enel Grazia Deledda S 97,01/10/2020,Piombo,Enel,15,10,5,1.5,Enel Grazia Deledda S 97 - Piombo
+Enel Portoscuso PO 2,17/09/2020,Ammonio (ione),Enel,690,500,190,1.38,Enel Portoscuso PO 2 - Ammonio (ione)
+Eurallumina PZN16,14/12/2020,Triclorometano,Eurallumina,0.2,0.15,0.05,1.33,Eurallumina PZN16 - Triclorometano
+Eurallumina PZN16,14/12/2020,Piombo,Eurallumina,13,10,3,1.3,Eurallumina PZN16 - Piombo
+Enel Grazia Deledda S 124,15/01/2020,Zinco,Enel,3881,3000,881,1.29,Enel Grazia Deledda S 124 - Zinco
+Eurallumina PZN16,14/12/2020,Solfato (ione),Eurallumina,320600,250000,70600,1.28,Eurallumina PZN16 - Solfato (ione)
+Enel Grazia Deledda S 60,14/10/2020,Magnesio,Enel,63000,50000,13000,1.26,Enel Grazia Deledda S 60 - Magnesio
+Enel Grazia Deledda S 97,01/10/2020,Ferro,Enel,250,200,50,1.25,Enel Grazia Deledda S 97 - Ferro
+Enel Portoscuso PO 2,17/09/2020,Solfato (ione),Enel,307000,250000,57000,1.23,Enel Portoscuso PO 2 - Solfato (ione)
+Alcoa PZ 13,24/09/2020,Alluminio,Alcoa,242,200,42,1.21,Alcoa PZ 13 - Alluminio
+Eurallumina PZN 06,14/12/2020,Piombo,Eurallumina,12,10,2,1.2,Eurallumina PZN 06 - Piombo
+Enel Grazia Deledda S 124,15/01/2020,Arsenico,Enel,11.3,10,1.3,1.13,Enel Grazia Deledda S 124 - Arsenico
+Enel Grazia Deledda S 148,01/10/2020,Ferro,Enel,226,200,26,1.13,Enel Grazia Deledda S 148 - Ferro
+Alcoa PZ 13,24/09/2020,Arsenico,Alcoa,11,10,1,1.1,Alcoa PZ 13 - Arsenico
+Eurallumina PZN16,14/12/2020,Selenio,Eurallumina,11,10,1,1.1,Eurallumina PZN16 - Selenio
+Enel Grazia Deledda S 60,14/10/2020,Solfato (ione),Enel,261000,250000,11000,1.04,Enel Grazia Deledda S 60 - Solfato (ione)
+Alcoa PZ 11,24/09/2020,Alluminio,Alcoa,24,200,,,Alcoa PZ 11 - Alluminio
+Alcoa PZ 4,08/10/2020,Alluminio,Alcoa,20,200,,,Alcoa PZ 4 - Alluminio
+Eurallumina PZN16,14/12/2020,Alluminio,Eurallumina,75,200,,,Eurallumina PZN16 - Alluminio
+Portovesme srl PZ P12 -,20/10/2020,Alluminio,Portovesme srl,< 20,200,,,Portovesme srl PZ P12 - - Alluminio
+Enel Portoscuso PO 2,17/09/2020,Alluminio,Enel,35,200,,,Enel Portoscuso PO 2 - Alluminio
+Enel Grazia Deledda S 97,01/10/2020,Alluminio,Enel,90,200,,,Enel Grazia Deledda S 97 - Alluminio
+Enel Grazia Deledda S 148,01/10/2020,Alluminio,Enel,174,200,,,Enel Grazia Deledda S 148 - Alluminio
+Enel Grazia Deledda S 60,14/10/2020,Alluminio,Enel,< 20,200,,,Enel Grazia Deledda S 60 - Alluminio
+Alcoa PZ 13,24/09/2020,Ammonio (ione),Alcoa,< 20,500,,,Alcoa PZ 13 - Ammonio (ione)
+Alcoa PZ 4,08/10/2020,Ammonio (ione),Alcoa,< 20,500,,,Alcoa PZ 4 - Ammonio (ione)
+Eurallumina PZN16,14/12/2020,Ammonio (ione),Eurallumina,< 20,500,,,Eurallumina PZN16 - Ammonio (ione)
+Eurallumina PZN 06,14/12/2020,Ammonio (ione),Eurallumina,80,500,,,Eurallumina PZN 06 - Ammonio (ione)
+Portovesme srl PZ P12 -,20/10/2020,Ammonio (ione),Portovesme srl,< 20,500,,,Portovesme srl PZ P12 - - Ammonio (ione)
+Enel Grazia Deledda S 60,14/10/2020,Ammonio (ione),Enel,< 20,500,,,Enel Grazia Deledda S 60 - Ammonio (ione)
+Alcoa PZ 11,24/09/2020,Antimonio,Alcoa,< 0.5,5,,,Alcoa PZ 11 - Antimonio
+Alcoa PZ 4,08/10/2020,Antimonio,Alcoa,< 0.5,5,,,Alcoa PZ 4 - Antimonio
+Eurallumina PZN16,14/12/2020,Antimonio,Eurallumina,1,5,,,Eurallumina PZN16 - Antimonio
+Eurallumina PZN 26,15/12/2020,Antimonio,Eurallumina,< 0.5,5,,,Eurallumina PZN 26 - Antimonio
+Eurallumina PZN 06,14/12/2020,Antimonio,Eurallumina,1.2,5,,,Eurallumina PZN 06 - Antimonio
+Portovesme srl PZ P12 -,20/10/2020,Antimonio,Portovesme srl,1.5,5,,,Portovesme srl PZ P12 - - Antimonio
+Enel Portoscuso PO 2,17/09/2020,Antimonio,Enel,0.6,5,,,Enel Portoscuso PO 2 - Antimonio
+Enel Grazia Deledda S 97,01/10/2020,Antimonio,Enel,< 0.5,5,,,Enel Grazia Deledda S 97 - Antimonio
+Enel Grazia Deledda S 60,14/10/2020,Antimonio,Enel,< 0.5,5,,,Enel Grazia Deledda S 60 - Antimonio
+Portovesme srl PZ51,21/10/2020,Antimonio,Portovesme srl,0.8,5,,,Portovesme srl PZ51 - Antimonio
+Enel Grazia Deledda S 124,15/01/2020,Antimonio,Enel,< 0.5,5,,,Enel Grazia Deledda S 124 - Antimonio
+Alcoa PZ 11,24/09/2020,Arsenico,Alcoa,3.5,10,,,Alcoa PZ 11 - Arsenico
+Eurallumina PZN16,14/12/2020,Arsenico,Eurallumina,3.6,10,,,Eurallumina PZN16 - Arsenico
+Enel Grazia Deledda S 97,01/10/2020,Arsenico,Enel,6,10,,,Enel Grazia Deledda S 97 - Arsenico
+Enel Grazia Deledda S 60,14/10/2020,Arsenico,Enel,3.5,10,,,Enel Grazia Deledda S 60 - Arsenico
+Alcoa PZ 13,24/09/2020,Berillio,Alcoa,0.6,4,,,Alcoa PZ 13 - Berillio
+Alcoa PZ 11,24/09/2020,Berillio,Alcoa,< 0.25,4,,,Alcoa PZ 11 - Berillio
+Alcoa PZ 4,08/10/2020,Berillio,Alcoa,2,4,,,Alcoa PZ 4 - Berillio
+Eurallumina PZN 26,15/12/2020,Berillio,Eurallumina,< 0.25,4,,,Eurallumina PZN 26 - Berillio
+Eurallumina PZN 06,14/12/2020,Berillio,Eurallumina,< 0.25,4,,,Eurallumina PZN 06 - Berillio
+Portovesme srl PZ P12 -,20/10/2020,Berillio,Portovesme srl,< 0.25,4,,,Portovesme srl PZ P12 - - Berillio
+Enel Portoscuso PO 2,17/09/2020,Berillio,Enel,< 0.25,4,,,Enel Portoscuso PO 2 - Berillio
+Enel Grazia Deledda S 97,01/10/2020,Berillio,Enel,< 0.25,4,,,Enel Grazia Deledda S 97 - Berillio
+Enel Grazia Deledda S 148,01/10/2020,Berillio,Enel,< 0.25,4,,,Enel Grazia Deledda S 148 - Berillio
+Enel Grazia Deledda S 60,14/10/2020,Berillio,Enel,< 0.25,4,,,Enel Grazia Deledda S 60 - Berillio
+Alcoa PZ 13,24/09/2020,Boro,Alcoa,95,1000,,,Alcoa PZ 13 - Boro
+Alcoa PZ 11,24/09/2020,Boro,Alcoa,460,1000,,,Alcoa PZ 11 - Boro
+Alcoa PZ 4,08/10/2020,Boro,Alcoa,920,1000,,,Alcoa PZ 4 - Boro
+Eurallumina PZN16,14/12/2020,Boro,Eurallumina,145,1000,,,Eurallumina PZN16 - Boro
+Eurallumina PZN 26,15/12/2020,Boro,Eurallumina,359,1000,,,Eurallumina PZN 26 - Boro
+Eurallumina PZN 06,14/12/2020,Boro,Eurallumina,134,1000,,,Eurallumina PZN 06 - Boro
+Portovesme srl PZ P12 -,20/10/2020,Boro,Portovesme srl,163,1000,,,Portovesme srl PZ P12 - - Boro
+Enel Portoscuso PO 2,17/09/2020,Boro,Enel,137,1000,,,Enel Portoscuso PO 2 - Boro
+Enel Grazia Deledda S 97,01/10/2020,Boro,Enel,920,1000,,,Enel Grazia Deledda S 97 - Boro
+Enel Grazia Deledda S 148,01/10/2020,Boro,Enel,260,1000,,,Enel Grazia Deledda S 148 - Boro
+Enel Grazia Deledda S 60,14/10/2020,Boro,Enel,130,1000,,,Enel Grazia Deledda S 60 - Boro
+Portovesme srl PZ51,21/10/2020,Boro,Portovesme srl,796,1000,,,Portovesme srl PZ51 - Boro
+Alcoa PZ 11,24/09/2020,Cadmio,Alcoa,3.4,5,,,Alcoa PZ 11 - Cadmio
+Eurallumina PZN 26,15/12/2020,Cadmio,Eurallumina,< 0.1,5,,,Eurallumina PZN 26 - Cadmio
+Eurallumina PZN 06,14/12/2020,Cadmio,Eurallumina,0.34,5,,,Eurallumina PZN 06 - Cadmio
+Enel Portoscuso PO 2,17/09/2020,Cadmio,Enel,0.6,5,,,Enel Portoscuso PO 2 - Cadmio
+Enel Grazia Deledda S 97,01/10/2020,Cadmio,Enel,4,5,,,Enel Grazia Deledda S 97 - Cadmio
+Enel Grazia Deledda S 148,01/10/2020,Cadmio,Enel,1,5,,,Enel Grazia Deledda S 148 - Cadmio
+Enel Grazia Deledda S 60,14/10/2020,Cadmio,Enel,0.4,5,,,Enel Grazia Deledda S 60 - Cadmio
+Alcoa PZ 13,24/09/2020,Cobalto,Alcoa,0.3,50,,,Alcoa PZ 13 - Cobalto
+Alcoa PZ 11,24/09/2020,Cobalto,Alcoa,3.8,50,,,Alcoa PZ 11 - Cobalto
+Eurallumina PZN16,14/12/2020,Cobalto,Eurallumina,< 0.25,50,,,Eurallumina PZN16 - Cobalto
+Eurallumina PZN 26,15/12/2020,Cobalto,Eurallumina,< 0.25,50,,,Eurallumina PZN 26 - Cobalto
+Eurallumina PZN 06,14/12/2020,Cobalto,Eurallumina,< 0.25,50,,,Eurallumina PZN 06 - Cobalto
+Portovesme srl PZ P12 -,20/10/2020,Cobalto,Portovesme srl,0.5,50,,,Portovesme srl PZ P12 - - Cobalto
+Enel Portoscuso PO 2,17/09/2020,Cobalto,Enel,< 0.25,50,,,Enel Portoscuso PO 2 - Cobalto
+Enel Grazia Deledda S 97,01/10/2020,Cobalto,Enel,< 0.25,50,,,Enel Grazia Deledda S 97 - Cobalto
+Enel Grazia Deledda S 148,01/10/2020,Cobalto,Enel,< 0.25,50,,,Enel Grazia Deledda S 148 - Cobalto
+Enel Grazia Deledda S 60,14/10/2020,Cobalto,Enel,< 0.25,50,,,Enel Grazia Deledda S 60 - Cobalto
+Alcoa PZ 13,24/09/2020,Cromo totale,Alcoa,2.5,50,,,Alcoa PZ 13 - Cromo totale
+Alcoa PZ 11,24/09/2020,Cromo totale,Alcoa,< 0.25,50,,,Alcoa PZ 11 - Cromo totale
+Alcoa PZ 4,08/10/2020,Cromo totale,Alcoa,3,50,,,Alcoa PZ 4 - Cromo totale
+Eurallumina PZN16,14/12/2020,Cromo totale,Eurallumina,< 0.25,50,,,Eurallumina PZN16 - Cromo totale
+Eurallumina PZN 06,14/12/2020,Cromo totale,Eurallumina,< 0.25,50,,,Eurallumina PZN 06 - Cromo totale
+Portovesme srl PZ P12 -,20/10/2020,Cromo totale,Portovesme srl,0.4,50,,,Portovesme srl PZ P12 - - Cromo totale
+Enel Portoscuso PO 2,17/09/2020,Cromo totale,Enel,< 0.25,50,,,Enel Portoscuso PO 2 - Cromo totale
+Enel Grazia Deledda S 97,01/10/2020,Cromo totale,Enel,< 0.25,50,,,Enel Grazia Deledda S 97 - Cromo totale
+Enel Grazia Deledda S 148,01/10/2020,Cromo totale,Enel,< 0.25,50,,,Enel Grazia Deledda S 148 - Cromo totale
+Enel Grazia Deledda S 60,14/10/2020,Cromo totale,Enel,< 0.25,50,,,Enel Grazia Deledda S 60 - Cromo totale
+Portovesme srl PZ51,21/10/2020,Cromo totale,Portovesme srl,1.6,50,,,Portovesme srl PZ51 - Cromo totale
+Alcoa PZ 13,24/09/2020,Ferro,Alcoa,69,200,,,Alcoa PZ 13 - Ferro
+Alcoa PZ 11,24/09/2020,Ferro,Alcoa,138,200,,,Alcoa PZ 11 - Ferro
+Alcoa PZ 4,08/10/2020,Ferro,Alcoa,40,200,,,Alcoa PZ 4 - Ferro
+Eurallumina PZN16,14/12/2020,Ferro,Eurallumina,11,200,,,Eurallumina PZN16 - Ferro
+Eurallumina PZN 06,14/12/2020,Ferro,Eurallumina,25,200,,,Eurallumina PZN 06 - Ferro
+Portovesme srl PZ P12 -,20/10/2020,Ferro,Portovesme srl,32,200,,,Portovesme srl PZ P12 - - Ferro
+Enel Portoscuso PO 2,17/09/2020,Ferro,Enel,17,200,,,Enel Portoscuso PO 2 - Ferro
+Enel Grazia Deledda S 60,14/10/2020,Ferro,Enel,25,200,,,Enel Grazia Deledda S 60 - Ferro
+Alcoa PZ 11,24/09/2020,Fluoruri,Alcoa,< 100,1500,,,Alcoa PZ 11 - Fluoruri
+Alcoa PZ 4,08/10/2020,Fluoruri,Alcoa,< 100,1500,,,Alcoa PZ 4 - Fluoruri
+Enel Grazia Deledda S 97,01/10/2020,Fluoruri,Enel,343,1500,,,Enel Grazia Deledda S 97 - Fluoruri
+Enel Grazia Deledda S 60,14/10/2020,Fluoruri,Enel,105,1500,,,Enel Grazia Deledda S 60 - Fluoruri
+Alcoa PZ 13,24/09/2020,Magnesio,Alcoa,20000,50000,,,Alcoa PZ 13 - Magnesio
+Eurallumina PZN16,14/12/2020,Magnesio,Eurallumina,32000,50000,,,Eurallumina PZN16 - Magnesio
+Eurallumina PZN 26,15/12/2020,Magnesio,Eurallumina,14800,50000,,,Eurallumina PZN 26 - Magnesio
+Eurallumina PZN 06,14/12/2020,Magnesio,Eurallumina,< 500,50000,,,Eurallumina PZN 06 - Magnesio
+Portovesme srl PZ P12 -,20/10/2020,Magnesio,Portovesme srl,16700,50000,,,Portovesme srl PZ P12 - - Magnesio
+Enel Portoscuso PO 2,17/09/2020,Magnesio,Enel,5000,50000,,,Enel Portoscuso PO 2 - Magnesio
+Enel Grazia Deledda S 148,01/10/2020,Magnesio,Enel,2600,50000,,,Enel Grazia Deledda S 148 - Magnesio
+Alcoa PZ 13,24/09/2020,Manganese,Alcoa,10,50,,,Alcoa PZ 13 - Manganese
+Eurallumina PZN 26,15/12/2020,Manganese,Eurallumina,< 1,50,,,Eurallumina PZN 26 - Manganese
+Eurallumina PZN 06,14/12/2020,Manganese,Eurallumina,1.2,50,,,Eurallumina PZN 06 - Manganese
+Portovesme srl PZ P12 -,20/10/2020,Manganese,Portovesme srl,34,50,,,Portovesme srl PZ P12 - - Manganese
+Enel Grazia Deledda S 148,01/10/2020,Manganese,Enel,27,50,,,Enel Grazia Deledda S 148 - Manganese
+Enel Grazia Deledda S 60,14/10/2020,Manganese,Enel,2,50,,,Enel Grazia Deledda S 60 - Manganese
+Eurallumina PZN16,14/12/2020,Mercurio,Eurallumina,0,1,,,Eurallumina PZN16 - Mercurio
+Portovesme srl PZ P12 -,20/10/2020,Mercurio,Portovesme srl,0.2,1,,,Portovesme srl PZ P12 - - Mercurio
+Enel Grazia Deledda S 97,01/10/2020,Mercurio,Enel,0,1,,,Enel Grazia Deledda S 97 - Mercurio
+Enel Grazia Deledda S 148,01/10/2020,Mercurio,Enel,0,1,,,Enel Grazia Deledda S 148 - Mercurio
+Enel Grazia Deledda S 60,14/10/2020,Mercurio,Enel,0,1,,,Enel Grazia Deledda S 60 - Mercurio
+Enel Grazia Deledda S 124,15/01/2020,Mercurio,Enel,< 0.1,1,,,Enel Grazia Deledda S 124 - Mercurio
+Alcoa PZ 13,24/09/2020,Nichel,Alcoa,3,20,,,Alcoa PZ 13 - Nichel
+Alcoa PZ 11,24/09/2020,Nichel,Alcoa,2.9,20,,,Alcoa PZ 11 - Nichel
+Eurallumina PZN16,14/12/2020,Nichel,Eurallumina,2.4,20,,,Eurallumina PZN16 - Nichel
+Eurallumina PZN 06,14/12/2020,Nichel,Eurallumina,1.5,20,,,Eurallumina PZN 06 - Nichel
+Portovesme srl PZ P12 -,20/10/2020,Nichel,Portovesme srl,2.5,20,,,Portovesme srl PZ P12 - - Nichel
+Enel Portoscuso PO 2,17/09/2020,Nichel,Enel,5,20,,,Enel Portoscuso PO 2 - Nichel
+Enel Grazia Deledda S 97,01/10/2020,Nichel,Enel,< 0.25,20,,,Enel Grazia Deledda S 97 - Nichel
+Enel Grazia Deledda S 148,01/10/2020,Nichel,Enel,3,20,,,Enel Grazia Deledda S 148 - Nichel
+Enel Grazia Deledda S 60,14/10/2020,Nichel,Enel,1,20,,,Enel Grazia Deledda S 60 - Nichel
+Alcoa PZ 13,24/09/2020,Piombo,Alcoa,2.6,10,,,Alcoa PZ 13 - Piombo
+Alcoa PZ 11,24/09/2020,Piombo,Alcoa,7,10,,,Alcoa PZ 11 - Piombo
+Eurallumina PZN 26,15/12/2020,Piombo,Eurallumina,< 1,10,,,Eurallumina PZN 26 - Piombo
+Enel Portoscuso PO 2,17/09/2020,Piombo,Enel,8,10,,,Enel Portoscuso PO 2 - Piombo
+Enel Grazia Deledda S 60,14/10/2020,Piombo,Enel,4,10,,,Enel Grazia Deledda S 60 - Piombo
+Alcoa PZ 13,24/09/2020,Selenio,Alcoa,4,10,,,Alcoa PZ 13 - Selenio
+Alcoa PZ 4,08/10/2020,Selenio,Alcoa,< 0.25,10,,,Alcoa PZ 4 - Selenio
+Eurallumina PZN 06,14/12/2020,Selenio,Eurallumina,2.9,10,,,Eurallumina PZN 06 - Selenio
+Portovesme srl PZ P12 -,20/10/2020,Selenio,Portovesme srl,9,10,,,Portovesme srl PZ P12 - - Selenio
+Enel Grazia Deledda S 97,01/10/2020,Selenio,Enel,< 0.25,10,,,Enel Grazia Deledda S 97 - Selenio
+Enel Grazia Deledda S 148,01/10/2020,Selenio,Enel,5,10,,,Enel Grazia Deledda S 148 - Selenio
+Enel Grazia Deledda S 60,14/10/2020,Selenio,Enel,1,10,,,Enel Grazia Deledda S 60 - Selenio
+Enel Grazia Deledda S 124,15/01/2020,Selenio,Enel,< 0.25,10,,,Enel Grazia Deledda S 124 - Selenio
+Alcoa PZ 13,24/09/2020,Solfato (ione),Alcoa,128000,250000,,,Alcoa PZ 13 - Solfato (ione)
+Eurallumina PZN 06,14/12/2020,Solfato (ione),Eurallumina,172000,250000,,,Eurallumina PZN 06 - Solfato (ione)
+Portovesme srl PZ P12 -,20/10/2020,Solfato (ione),Portovesme srl,237000,250000,,,Portovesme srl PZ P12 - - Solfato (ione)
+Enel Grazia Deledda S 148,01/10/2020,Solfato (ione),Enel,132000,250000,,,Enel Grazia Deledda S 148 - Solfato (ione)
+Alcoa PZ 13,24/09/2020,Tallio,Alcoa,< 0.10,2,,,Alcoa PZ 13 - Tallio
+Alcoa PZ 11,24/09/2020,Tallio,Alcoa,< 0.10,2,,,Alcoa PZ 11 - Tallio
+Alcoa PZ 4,08/10/2020,Tallio,Alcoa,< 0.10,2,,,Alcoa PZ 4 - Tallio
+Eurallumina PZN16,14/12/2020,Tallio,Eurallumina,< 0.10,2,,,Eurallumina PZN16 - Tallio
+Eurallumina PZN 26,15/12/2020,Tallio,Eurallumina,< 0.10,2,,,Eurallumina PZN 26 - Tallio
+Eurallumina PZN 06,14/12/2020,Tallio,Eurallumina,< 0.10,2,,,Eurallumina PZN 06 - Tallio
+Portovesme srl PZ P12 -,20/10/2020,Tallio,Portovesme srl,1,2,,,Portovesme srl PZ P12 - - Tallio
+Enel Grazia Deledda S 97,01/10/2020,Tallio,Enel,< 0.10,2,,,Enel Grazia Deledda S 97 - Tallio
+Enel Grazia Deledda S 148,01/10/2020,Tallio,Enel,< 0.10,2,,,Enel Grazia Deledda S 148 - Tallio
+Enel Grazia Deledda S 60,14/10/2020,Tallio,Enel,< 0.10,2,,,Enel Grazia Deledda S 60 - Tallio
+Alcoa PZ 13,24/09/2020,Triclorometano,Alcoa,< 0.01,0.15,,,Alcoa PZ 13 - Triclorometano
+Eurallumina PZN 26,15/12/2020,Triclorometano,Eurallumina,0.01,0.15,,,Eurallumina PZN 26 - Triclorometano
+Portovesme srl PZ P12 -,20/10/2020,Triclorometano,Portovesme srl,< 0.01,0.15,,,Portovesme srl PZ P12 - - Triclorometano
+Enel Portoscuso PO 2,17/09/2020,Triclorometano,Enel,0.01,0.15,,,Enel Portoscuso PO 2 - Triclorometano
+Enel Grazia Deledda S 97,01/10/2020,Triclorometano,Enel,< 0.01,0.15,,,Enel Grazia Deledda S 97 - Triclorometano
+Enel Grazia Deledda S 148,01/10/2020,Triclorometano,Enel,< 0.01,0.15,,,Enel Grazia Deledda S 148 - Triclorometano
+Enel Grazia Deledda S 60,14/10/2020,Triclorometano,Enel,0.09,0.15,,,Enel Grazia Deledda S 60 - Triclorometano
+Portovesme srl PZ51,21/10/2020,Triclorometano,Portovesme srl,0.07,0.15,,,Portovesme srl PZ51 - Triclorometano
+Enel Grazia Deledda S 124,15/01/2020,Triclorometano,Enel,< 0.01,0.15,,,Enel Grazia Deledda S 124 - Triclorometano
+Alcoa PZ 13,24/09/2020,Vanadio,Alcoa,5,50,,,Alcoa PZ 13 - Vanadio
+Alcoa PZ 11,24/09/2020,Vanadio,Alcoa,1,50,,,Alcoa PZ 11 - Vanadio
+Alcoa PZ 4,08/10/2020,Vanadio,Alcoa,< 0.25,50,,,Alcoa PZ 4 - Vanadio
+Eurallumina PZN16,14/12/2020,Vanadio,Eurallumina,< 0.25,50,,,Eurallumina PZN16 - Vanadio
+Eurallumina PZN 06,14/12/2020,Vanadio,Eurallumina,16,50,,,Eurallumina PZN 06 - Vanadio
+Portovesme srl PZ P12 -,20/10/2020,Vanadio,Portovesme srl,1.5,50,,,Portovesme srl PZ P12 - - Vanadio
+Enel Portoscuso PO 2,17/09/2020,Vanadio,Enel,30,50,,,Enel Portoscuso PO 2 - Vanadio
+Enel Grazia Deledda S 97,01/10/2020,Vanadio,Enel,< 0.25,50,,,Enel Grazia Deledda S 97 - Vanadio
+Enel Grazia Deledda S 60,14/10/2020,Vanadio,Enel,< 0.25,50,,,Enel Grazia Deledda S 60 - Vanadio
+Portovesme srl PZ51,21/10/2020,Vanadio,Portovesme srl,2.4,50,,,Portovesme srl PZ51 - Vanadio
+Alcoa PZ 13,24/09/2020,Zinco,Alcoa,232,3000,,,Alcoa PZ 13 - Zinco
+Alcoa PZ 11,24/09/2020,Zinco,Alcoa,67,3000,,,Alcoa PZ 11 - Zinco
+Eurallumina PZN16,14/12/2020,Zinco,Eurallumina,53,3000,,,Eurallumina PZN16 - Zinco
+Eurallumina PZN 26,15/12/2020,Zinco,Eurallumina,64,3000,,,Eurallumina PZN 26 - Zinco
+Eurallumina PZN 06,14/12/2020,Zinco,Eurallumina,28,3000,,,Eurallumina PZN 06 - Zinco
+Portovesme srl PZ P12 -,20/10/2020,Zinco,Portovesme srl,306,3000,,,Portovesme srl PZ P12 - - Zinco
+Enel Portoscuso PO 2,17/09/2020,Zinco,Enel,170,3000,,,Enel Portoscuso PO 2 - Zinco
+Enel Grazia Deledda S 97,01/10/2020,Zinco,Enel,73,3000,,,Enel Grazia Deledda S 97 - Zinco
+Enel Grazia Deledda S 148,01/10/2020,Zinco,Enel,77,3000,,,Enel Grazia Deledda S 148 - Zinco
+Enel Grazia Deledda S 60,14/10/2020,Zinco,Enel,47,3000,,,Enel Grazia Deledda S 60 - Zinco

@@ -1,0 +1,51 @@
+Punto di prelievo,Data prelievo,Contaminante,Concentrazione (μg/l),Soglia di legge (μg/l),Concentrazione in eccesso (μg/l),Indice di superamento,ID
+Paringianu EP2,09/07/2020,Manganese,505,50,455,10.1,Paringianu EP2 - Manganese
+14PT003,05/07/2022,Cloruri,1201000,250000,951000,4.8,14PT003 - Cloruri
+Paringianu EP2,09/07/2020,Ferro,796,200,596,3.98,Paringianu EP2 - Ferro
+14PZ003,05/07/2022,Selenio,36,10,26,3.6,14PZ003 - Selenio
+14PT003,05/07/2022,Mercurio,3.5,1,2.5,3.5,14PT003 - Mercurio
+Paringianu EP1,21/12/2020,Mercurio,2.7,1,1.7,2.7,Paringianu EP1 - Mercurio
+14PZ003,05/07/2022,Arsenico,26,10,16,2.6,14PZ003 - Arsenico
+14PO007,12/04/2022,Solfato (ione),575000,250000,325000,2.3,14PO007 - Solfato (ione)
+14PT003,05/07/2022,Solfato (ione),543000,250000,293000,2.17,14PT003 - Solfato (ione)
+14PT003,05/07/2022,Ferro,362000,200000,162000,1.81,14PT003 - Ferro
+30PT006,22/09/2021,Triclorometano,0.24,0.15,0.09,1.6,30PT006 - Triclorometano
+14PZ003,05/07/2022,Solfato (ione),390000,250000,140000,1.56,14PZ003 - Solfato (ione)
+Paringianu EP2,09/07/2020,Fluoruri,1900,1500,400,1.27,Paringianu EP2 - Fluoruri
+Paringianu EP1,21/12/2020,Fluoruri,1810,1500,310,1.21,Paringianu EP1 - Fluoruri
+14PT003,05/07/2022,Magnesio,59000,50000,9000,1.18,14PT003 - Magnesio
+14PO007,12/04/2022,Selenio,11,10,1,1.1,14PO007 - Selenio
+Paringianu EP1,21/12/2020,Arsenico,2.3,10,,,Paringianu EP1 - Arsenico
+Paringianu EP2,09/07/2020,Arsenico,2.4,10,,,Paringianu EP2 - Arsenico
+30PT006,22/09/2021,Arsenico,3.1,10,,,30PT006 - Arsenico
+14PO007,12/04/2022,Arsenico,2.7,10,,,14PO007 - Arsenico
+14PT003,05/07/2022,Arsenico,5.3,10,,,14PT003 - Arsenico
+30PT006,22/09/2021,Cloruri,231000,250000,,,30PT006 - Cloruri
+14PO007,12/04/2022,Cloruri,199000,250000,,,14PO007 - Cloruri
+14PZ003,05/07/2022,Cloruri,224000,250000,,,14PZ003 - Cloruri
+Paringianu EP1,21/12/2020,Ferro,17,200,,,Paringianu EP1 - Ferro
+30PT006,22/09/2021,Ferro,20000,200000,,,30PT006 - Ferro
+14PO007,12/04/2022,Ferro,10000,200000,,,14PO007 - Ferro
+14PZ003,05/07/2022,Ferro,17000,200000,,,14PZ003 - Ferro
+Paringianu EP1,21/12/2020,Magnesio,17500,50000,,,Paringianu EP1 - Magnesio
+Paringianu EP2,09/07/2020,Magnesio,18000,50000,,,Paringianu EP2 - Magnesio
+30PT006,22/09/2021,Magnesio,24000,50000,,,30PT006 - Magnesio
+14PO007,12/04/2022,Magnesio,49000,50000,,,14PO007 - Magnesio
+14PZ003,05/07/2022,Magnesio,20000,50000,,,14PZ003 - Magnesio
+Paringianu EP1,21/12/2020,Manganese,9,50,,,Paringianu EP1 - Manganese
+Paringianu EP2,09/07/2020,Mercurio,< 0.1,1,,,Paringianu EP2 - Mercurio
+30PT006,22/09/2021,Mercurio,0.07,1,,,30PT006 - Mercurio
+14PO007,12/04/2022,Mercurio,0.02,1,,,14PO007 - Mercurio
+14PZ003,05/07/2022,Mercurio,0.16,1,,,14PZ003 - Mercurio
+Paringianu EP1,21/12/2020,Selenio,< 0.25,10,,,Paringianu EP1 - Selenio
+Paringianu EP2,09/07/2020,Selenio,< 0.25,10,,,Paringianu EP2 - Selenio
+30PT006,22/09/2021,Selenio,0.5,10,,,30PT006 - Selenio
+14PT003,05/07/2022,Selenio,0.7,10,,,14PT003 - Selenio
+30PT006,22/09/2021,Solfato (ione),76000,250000,,,30PT006 - Solfato (ione)
+Paringianu EP1,21/12/2020,Solfato (ione),14500,250000,,,Paringianu EP1 - Solfato (ione)
+Paringianu EP2,09/07/2020,Solfato (ione),< 5000,250000,,,Paringianu EP2 - Solfato (ione)
+Paringianu EP1,21/12/2020,Triclorometano,0.04,0.15,,,Paringianu EP1 - Triclorometano
+Paringianu EP2,09/07/2020,Triclorometano,< 0.01,0.15,,,Paringianu EP2 - Triclorometano
+14PO007,12/04/2022,Triclorometano,0,0.15,,,14PO007 - Triclorometano
+14PZ003,05/07/2022,Triclorometano,0,0.15,,,14PZ003 - Triclorometano
+14PT003,05/07/2022,Triclorometano,0,0.15,,,14PT003 - Triclorometano
