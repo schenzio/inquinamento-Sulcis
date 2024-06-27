@@ -5,4 +5,4 @@ Nello specifico, sono presenti i seguenti dataset:
 - contaminazioni delle falde urbane di Portoscuso, anni da 2020 a 2022 a seconda del punto di monitoraggio
 - coordinate geografiche dei punti di monitoraggio di suoli e falde urbane e industriali
 
-(metadati più dettagliati ancora da aggiungere)
+[[informazioni più dettagliate e i metadati dei singoli dataset saranno presto aggiunti]]
