@@ -1,4 +1,4 @@
-Punto di prelievo (abbr),Punto di prelievo,Data prelievo,Comune,Contaminante,Concentrazione (μg/l),Soglia di legge (μg/l),Concentrazione in eccesso (μg/l),Indice superamento,ID
+Punto di prelievo (abbr),Punto di prelievo,Data prelievo,Comune,Contaminante,Concentrazione (mg/Kg),Soglia di legge (mg/Kg),Concentrazione in eccesso (mg/Kg),Indice superamento,ID
 P2,PORTOSCUSO PERDAIAS P2,21/12/2022,Portoscuso,Zinco,4675,150,4525,31.17,P2 - Zinco
 PO3,PORTOSCUSO PALAZZO GARDENIA PO3,21/12/2022,Portoscuso,Zinco,3548,150,3398,23.65,PO3 - Zinco
 P13,PORTOSCUSO CASE FIGUS P13,20/12/2022,Portoscuso,Zinco,2894,150,2744,19.29,P13 - Zinco
