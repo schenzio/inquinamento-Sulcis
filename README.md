@@ -1,5 +1,8 @@
 # Monitoraggio inquinamento Sulcis
-Questo repository raccoglie i dati di **ARPA Sardegna** (Arpas) delle **contaminazioni di suole e faldi di Portoscuso** in formato csv. I dati sono stati ottenuti da Arpas tramite richiesta di accesso civico generalizzato (FOIA) e puliti ed elaborati da **Slow News**.
+Questo repository raccoglie i dati di **ARPA Sardegna** (Arpas) delle **contaminazioni di suole e faldi di Portoscuso** (Sud Sardegna) in formato csv. I dati sono stati ottenuti da Arpas tramite richiesta di accesso civico generalizzato (FOIA) e puliti ed elaborati da **Slow News**.
+
+I dati sono presentati nell'inchiesta di Slow News **[Cicatrici: tutti i numeri di un disastro ambientale](https://www.slow-news.com/serie/il-cammino-del-sulcis/sulcis-portoscuso-dati-inquinanti-jtf)**, episodio finale de [Il cammino del Sulcis](https://www.slow-news.com/serie/il-cammino-del-sulcis), una serie sulle sfide della giusta transizione del Sulcis Iglesiente.
+
 Nello specifico, sono presenti i seguenti dataset:
 - contaminazioni dei suoli di Portoscuso e dintorni, anno 2022
 - contaminazioni delle falde industriali di Portoscuso, anno 2020
