@@ -22,7 +22,7 @@ Data prelievo  | string | La data del prelievo
 Comune | string | Il comune in cui è situato il punto di prelievo
 Contaminante | string | Nome del contaminante prelevato
 Concentrazione (mg/Kg)	| integer | La concentrazione del contaminante, espressa in milligrammi su kili
-Soglia di legge (mg/Kg)	| integere | La concentrazione massima legale del contaminante in esame, espressa in milligrammi su kili
+Soglia di legge (mg/Kg)	| integer | La concentrazione massima legale del contaminante in esame, espressa in milligrammi su kili
 Concentrazione in eccesso (mg/Kg) | string | La concentrazione in eccesso del contaminante in esame, espressa in microgrammi su kili e calcolata come differenza tra la concentrazione e la soglia di legge
 Indice superamento	| integer |  L'indice che misura quante cioè volte in un dato punto la concentrazione di un contaminante supera i limiti legali. È calcolato come rapporto tra la concentrazione e la soglia di legge. 
 ID | string | Il codice identificativo di un certo prelievo, formato dal nome del punto di prelievo più il contaminante prelevato (es. P2 Zinco)
@@ -35,14 +35,14 @@ I dati descrivono i prelievi di diversi contaminanti nelle falde sotto gli impia
 
 Nome colonna | Tipo colonna | Descrizione colonna
 ------------ | -------------| ------------------- |
-Punto di prelievo |	string | Il nome esteso del punto di prelievo indicato nella realazione Arpas, unito al nome dell'impianto industriale di appartenenza (es. Alcia PZ 4 )
+Punto di prelievo |	string | Il nome esteso del punto di prelievo indicato nella realazione Arpas, unito al nome dell'impianto industriale di appartenenza (es. Alcoa PZ 4 )
 Data prelievo	| string | La data del prelievo
 Contaminante | string | Nome del contaminante prelevato
 Area industriale | string | L'area dell'impianto industriale in cui è situato il punto di prelievo
 Concentrazione  (μg/l)		| integer | La concentrazione del contaminante, espressa in microgrammi su litri
-Soglia di legge  (μg/l)		| integere | La concentrazione massima legale del contaminante in esame, espressa in microgrammi su litri
+Soglia di legge  (μg/l)		| integer | La concentrazione massima legale del contaminante in esame, espressa in microgrammi su litri
 Concentrazione in eccesso  (μg/l)	 | string | La concentrazione in eccesso del contaminante in esame, espressa in microgrammi su litri e calcolata come differenza tra la concentrazione e la soglia di legge
-Indice superamento	| integer |  L'indice che misura quante cioè volte in un dato punto la concentrazione di un contaminante supera i limiti legali. È calcolato come rapporto tra la concentrazione e la soglia di legge. 
+Indice superamento	| integer |  L'indice che misura quante volte in un dato punto la concentrazione di un contaminante supera i limiti legali. È calcolato come rapporto tra la concentrazione e la soglia di legge. 
 ID | string | Il codice identificativo di un certo prelievo, formato dal nome del punto di prelievo più il contaminante prelevato (es. Alcoa PZ 4 - Cadmio)
 
 ## Contaminazioni delle falde urbane di Portoscuso, anni da 2020 a 2022 
@@ -59,7 +59,7 @@ Data prelievo	| string | La data del prelievo
 Contaminante | string | Nome del contaminante prelevato
 Area industriale | string | L'area dell'impianto industriale in cui è situato il punto di prelievo
 Concentrazione  (μg/l)		| integer | La concentrazione del contaminante, espressa in microgrammi su litri
-Soglia di legge  (μg/l)		| integere | La concentrazione massima legale del contaminante in esame, espressa in microgrammi su litri
+Soglia di legge  (μg/l)		| integer | La concentrazione massima legale del contaminante in esame, espressa in microgrammi su litri
 Concentrazione in eccesso  (μg/l)	 | string | La concentrazione in eccesso del contaminante in esame, espressa in microgrammi su litri e calcolata come differenza tra la concentrazione e la soglia di legge
-Indice superamento	| integer |  L'indice che misura quante cioè volte in un dato punto la concentrazione di un contaminante supera i limiti legali. È calcolato come rapporto tra la concentrazione e la soglia di legge. 
+Indice superamento	| integer |  L'indice che misura quante volte in un dato punto la concentrazione di un contaminante supera i limiti legali. È calcolato come rapporto tra la concentrazione e la soglia di legge. 
 ID | string | Il codice identificativo di un certo prelievo, formato dal nome del punto di prelievo più il contaminante prelevato (es. Paringianu EP2 - Manganese)
